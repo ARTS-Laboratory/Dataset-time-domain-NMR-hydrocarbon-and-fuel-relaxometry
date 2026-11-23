@@ -27,8 +27,8 @@ Cite as:
 @Misc{Huggins2024HydrocarbonFuelData,   
   author = {Parker Huggins and Jacob Martin and Austin Downey and Sang Hee Won},   
   howpublished = {GitHub},  
-  title  = {Dataset-hydrocarbon-and-fuel-processing},   
-  year   = {2024},  
+  title  = {Dataset time domain {NMR} hydrocarbon and fuel relaxometry},   
+  note   = {Accessed: 20xx-xx-xx},   
   groups = {{ARTS-L}ab},    
-  url    = {https://github.com/ARTS-Laboratory/Dataset-hydrocarbon-and-fuel-processing},    
+  url    = {https://github.com/ARTS-Laboratory/Dataset-time-domain-NMR-hydrocarbon-and-fuel-relaxometry},    
 }
