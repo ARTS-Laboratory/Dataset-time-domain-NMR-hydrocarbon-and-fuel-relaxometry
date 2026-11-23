@@ -4,7 +4,7 @@ This dataset was collected using a 0.645 Tesla magnet at 27.5 MHz. It contains a
 
 All of the T2 relaxation data is provided in excel files. The first two sheets of the "trainingData" and "validationData" excel files contain hydrocarbon and jet fuel T2 data, where the first column is time (in seconds) and the remaining columns are T2 curves (in volts). The third sheet of the "trainingData" excel file summarizes the DCN of the samples. The code example.m shows how to read the data and plot relaxation curves using MATLAB. 
 
-A note on amplitudes: initial signal amplitude varies with ambient temperature between acquisition days, so curves were amplitude-renormalized before export. The specific renormalization procedure was not unfortunately not recorded. Decay rate — and therefore T₂, the quantity the paper's models use through the derived features — is unaffected by this renormalization. Absolute amplitudes should be treated as comparable in shape but not in absolute scale across samples or acquisition dates.
+A note on amplitudes: initial signal amplitude varies with ambient temperature between acquisition days, so curves were amplitude-renormalized before export. Decay rate — and therefore T₂, the quantity the paper's models use through the derived features — is unaffected by this renormalization. Unfortunately, however, the specific renormalization procedure was not recorded. Absolute amplitudes should thus be treated as comparable in shape but not in absolute scale across samples or acquisition dates. 
 
 ## trainingData.xlsx
 Three sheets: `hydrocarbons`, `jet fuels`, and `DCNs`.
