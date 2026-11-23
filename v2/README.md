@@ -9,4 +9,4 @@ Changes made to the Excel sheets
 1. In `trainingData.xlsx` (`hydrocarbons` sheet): renamed column header `n-hexane` → `n-heptane` (header typo only; column data were always n-heptane, DCN 56, matching Table 1 and the features file).
 
 ## Known Issue
-1. In `validationData.xlsx` (hydrocarbons sheet), the curves labelled n-heptane show decay rates closely matching the n-dodecane training curves rather than the n-heptane training curves. Suggesting an error during aquistion or data handling. Users should treat this column with caution.
+1. In `validationData.xlsx` (hydrocarbons sheet), the sample labelled n-heptane shows decay curves closer to the n-dodecane training data than to the n-heptane training data. Given the time elapsed since the measurement and the preliminary nature of this data exploration, we cannot be certain what was actually measured in this column. We recommend ignoring it in any future use of this dataset.
