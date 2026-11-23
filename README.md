@@ -9,7 +9,8 @@ v1 with sample labels and DCN values corrected; raw T2 data unchanged.
 
 ## References
 
-[1] Jacob Martin, Austin R.J. Downey, Win Janvrin, and Angelo Varillas, "Compact-NMR (cNMR)," August 2023. [Online]. URL: https://github.com/ARTS-Laboratory/Compact-NMR
+[1] Parker Huggins, Jacob S. Martin, Austin R.J. Downey, and Sang Hee Won. Interpretable machine learning for predicting the derived cetane number of jet fuels using compact TD-NMR. Sensors and Actuators B: Chemical, 426:137018, March 2025. doi:10.1016/j.snb.2024.137018
+[2] Winford Janvrin, Jacob Martin, Daniel Hancock, Angelo Varillas, Austin R.J. Downey, Perry J. Pellechia, Joud Satme, and Sang Hee Won. Open-source compact time-domain hydrogen (1H) NMR system for field deployment. HardwareX, 22:e00651, June 2025. doi:10.1016/j.ohx.2025.e00651
 
 ## Licensing and Citation
 
