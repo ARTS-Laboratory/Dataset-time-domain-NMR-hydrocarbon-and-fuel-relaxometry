@@ -1,1 +1,0 @@
-Ouput data and plots from fitting loop with constant rng seed.

@@ -1,1 +1,0 @@
-Plots of data in both time and frequency domain.
