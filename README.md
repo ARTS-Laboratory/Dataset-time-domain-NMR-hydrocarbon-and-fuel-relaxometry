@@ -1,6 +1,11 @@
 # Dataset time domain NMR hydrocarbon and fuel relaxometry
-
 This dataset contains T2 relaxation curves probed from both pure hydrocarbon and jet fuel samples. The relaxation curves were acquired using a time domain nuclear magnetic resonance (TD-NMR) system located at the University of South Carolina, Columbia, USA [1]. The derived cetane number (DCN) of all samples is also provided.  
+
+## v1
+Version of the data set used initially in "Parker Huggins, Jacob S. Martin, Austin R.J. Downey, and Sang Hee Won. Interpretable machine learning for predicting the derived cetane number of jet fuels using compact TD-NMR. Sensors and Actuators B: Chemical, 426:137018, March 2025. doi:10.1016/j.snb.2024.137018".
+
+## v2
+v1 with select metadata updated. 
 
 ## References
 
