@@ -5,7 +5,7 @@ This dataset contains T2 relaxation curves probed from both pure hydrocarbon and
 Version of the data set used initially in "Parker Huggins, Jacob S. Martin, Austin R.J. Downey, and Sang Hee Won. Interpretable machine learning for predicting the derived cetane number of jet fuels using compact TD-NMR. Sensors and Actuators B: Chemical, 426:137018, March 2025. doi:10.1016/j.snb.2024.137018".
 
 ## v2
-v1 with select metadata updated. 
+v1 with sample labels and DCN values corrected; raw T2 data unchanged.
 
 ## References
 
